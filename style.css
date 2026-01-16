@@ -35,6 +35,15 @@ section {
   padding: 0 20px;
 }
 
+#contact a {
+  color: #0077b5;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
 h2 {
   color: #0a2540;
   margin-bottom: 15px;
@@ -84,3 +93,4 @@ footer {
     font-size: 1.8rem;
   }
 }
+
